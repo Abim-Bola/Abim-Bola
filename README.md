@@ -12,9 +12,9 @@ Currently, I am available for hire.
 <hr>
 
  <h1> :hammer: Projects</h1>
- <a href="https://gravitasbooks.com/"> Gravitas </a>
- Blackbell
- <a href="https://abimbola.herokuapp.com/" >Abimbola Bamgbelu Portfolio</a>
-<a href="https://grapefruitblog.herokuapp.com/"> Documentation App </a>
+ - <a href="https://gravitasbooks.com/"> Gravitas </a><br>
+ - Blackbell<br>
+ - <a href="https://abimbola.herokuapp.com/" >Abimbola Bamgbelu Portfolio</a><br>
+- <a href="https://grapefruitblog.herokuapp.com/"> Documentation App </a><br>
 
 
